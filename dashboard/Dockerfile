@@ -1,3 +1,3 @@
-FROM gcr.io/google_containers/kubernetes-dashboard-amd64:latest
+FROM gcr.io/google_containers/kubernetes-dashboard-amd64:v1.10.1
 MAINTAINER aleanday@163.com
 
