@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/pause-amd64:3.1
+FROM teamatldocker/jira:latest
 MAINTAINER aleanday@163.com
