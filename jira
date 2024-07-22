@@ -1,0 +1,2 @@
+FROM teamatldocker/jira
+MAINTAINER aleanday@163.com
